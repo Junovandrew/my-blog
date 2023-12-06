@@ -1,0 +1,171 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "author": "Junova",
+      "username": "junova.andrew@gmail.com",
+      "password": "@andrew123"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "one piece",
+      "body": "Barely surviving in a barrel after passing through a terrible whirlpool at sea, carefree Monkey D. Luffy ends up aboard a ship under attack by fearsome pirates. Despite being a naive-looking teenager, he is not to be underestimated. Unmatched in battle, Luffy is a pirate himself who resolutely pursues the coveted One Piece treasure and the King of the Pirates title that comes with it.",
+      "author": "Junova",
+      "image": "onepiece.jpg",
+      "date": "12/02/2022",
+      "time": "12:22 ",
+      "comment": "this is dope"
+    },
+    {
+      "id": 2,
+      "title": "naruto",
+      "body": "Moments prior to Naruto Uzumaki's birth, a huge demon known as the Kyuubi, the Nine-Tailed Fox, attacked Konohagakure, the Hidden Leaf Village, and wreaked havoc. In order to put an end to the Kyuubi's rampage, the leader of the village, the Fourth Hokage, sacrificed his life and sealed the monstrous beast inside the newborn Naruto.",
+      "author": "Junova",
+      "image": "naruto.jpg",
+      "date": "12/02/2022",
+      "time": "12:22 "
+    },
+    {
+      "id": 3,
+      "title": "bleach",
+      "body": "Ichigo Kurosaki is an ordinary high schooler—until his family is attacked by a Hollow, a corrupt spirit that seeks to devour human souls. It is then that he meets a Soul Reaper named Rukia Kuchiki, who gets injured while protecting Ichigo's family from the assailant. To save his family, Ichigo accepts Rukia's offer of taking her powers and becomes a Soul Reaper as a result.",
+      "author": "Junova",
+      "image": "bleach.jpg",
+      "date": "12/02/2022",
+      "time": "12:22 "
+    },
+    {
+      "id": 4,
+      "title": "black clover",
+      "body": "Asta and Yuno were abandoned at the same church on the same day. Raised together as children, they came to know of the 'Wizard King'—a title given to the strongest mage in the kingdom—and promised that they would compete against each other for the position of the next Wizard King. However, as they grew up, the stark difference between them became evident. While Yuno is able to wield magic with amazing power and control, Asta cannot use magic at all and desperately tries to awaken his powers by training physically.",
+      "author": "Junova",
+      "image": "black clover.jpg",
+      "date": "12/02/2022",
+      "time": "12:22 "
+    },
+    {
+      "id": 5,
+      "title": "demon slayer",
+      "body": "Ever since the death of his father, the burden of supporting the family has fallen upon Tanjirou Kamado's shoulders. Though living impoverished on a remote mountain, the Kamado family are able to enjoy a relatively peaceful and happy life. One day, Tanjirou decides to go down to the local village to make a little money selling charcoal. On his way back, night falls, forcing Tanjirou to take shelter in the house of a strange man, who warns him of the existence of flesh-eating demons that lurk in the woods at night.",
+      "author": "Junova",
+      "image": "demon slayer.jpg",
+      "date": "12/02/2022",
+      "time": "12:22 "
+    },
+    {
+      "id": 6,
+      "title": "boku no hero",
+      "body": "The appearance of 'quirks,' newly discovered super powers, has been steadily increasing over the years, with 80 percent of humanity possessing various abilities from manipulation of elements to shapeshifting. This leaves the remainder of the world completely powerless, and Izuku Midoriya is one such individual.",
+      "author": "Junova",
+      "image": "boku no hero.jpg",
+      "date": "12/02/2022",
+      "time": "12:22 "
+    },
+    {
+      "title": "kldjlf;",
+      "body": "jlkdjf",
+      "author": "kdhflkdjf",
+      "image": "598847.jpg",
+      "date": "2023-08-31",
+      "time": "13:39",
+      "id": 7
+    },
+    {
+      "title": "efhejfnjoen",
+      "body": "jrnoeirji3",
+      "author": "jfnijeitfj",
+      "image": "644171.jpg",
+      "date": "2023-09-22",
+      "time": "14:56",
+      "id": 8
+    },
+    {
+      "title": "efhejfnjoen",
+      "body": "jrnoeirji3",
+      "author": "jfnijeitfj",
+      "image": "644171.jpg",
+      "date": "2023-09-22",
+      "time": "14:56",
+      "id": 9
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "post_id": 1,
+      "comments": "this is dope"
+    },
+    {
+      "id": 2,
+      "post_id": 1,
+      "comments": "this is dope 2"
+    },
+    {
+      "id": 3,
+      "post_id": 2,
+      "comments": "this is dope 2"
+    },
+    {
+      "id": 4,
+      "post_id": 2,
+      "comments": "this is dope 2"
+    },
+    {
+      "comments": "this is lit",
+      "post_id": "1",
+      "id": 5
+    },
+    {
+      "comments": "this was helpful",
+      "post_id": "2",
+      "id": 6
+    },
+    {
+      "comments": "nice content",
+      "post_id": "2",
+      "id": 7
+    },
+    {
+      "comments": "i like this",
+      "post_id": "2",
+      "id": 8
+    },
+    {
+      "comments": "give me moreeee",
+      "post_id": "2",
+      "id": 9
+    },
+    {
+      "comments": "lit shit",
+      "post_id": "1",
+      "id": 10
+    },
+    {
+      "comments": "njbhjgvhvhg",
+      "post_id": "2",
+      "id": 11
+    },
+    {
+      "comments": "booop glooop",
+      "post_id": "2",
+      "id": 12
+    },
+    {
+      "comments": "dope as hell",
+      "post_id": "1",
+      "id": 13
+    },
+    {
+      "comments": "hell yeah",
+      "post_id": "1",
+      "id": 14
+    },
+    {
+      "comments": "hell yeahkmgkpr",
+      "post_id": "9",
+      "id": 15
+    }
+  ]
+}
